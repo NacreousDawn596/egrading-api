@@ -21,7 +21,7 @@ Built for students who like their grades served with an API. 🚀
 
 ## 📦 Installation
 
-> If you plan to publish it as a package:
+> If you plan to install it as a package:
 
 ```bash
 pip install egrading-api
