@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "egrading_api"
+name = "egrading-api"
 version = "0.1.0"
 description = "A Python wrapper for the ENSAM egrading platform"
 readme = "README.md"
@@ -20,5 +20,5 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/USERNAME/egrading_api"
-"Bug Tracker" = "https://github.com/USERNAME/egrading_api/issues"
+"Homepage" = "https://github.com/NacreousDawn596/egrading-api"
+"Bug Tracker" = "https://github.com/NacreousDawn596/egrading-api/issues"
